@@ -21,7 +21,11 @@ background-position:center;
 .heart:before,
 .heart:after {
 	content : "";
+<<<<<<< Updated upstream
 	background-color : #e24925;
+=======
+	background-color : #c1122c;
+>>>>>>> Stashed changes
 	position : absolute;
 	height : 30px;
 	width : 45px;
@@ -35,4 +39,8 @@ background-position:center;
 .heart:after {
 	left : 10.5px;
 	transform : rotate(720deg);
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
