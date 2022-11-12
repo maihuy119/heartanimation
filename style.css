@@ -21,7 +21,7 @@ background-position:center;
 .heart:before,
 .heart:after {
 	content : "";
-	background-color : #fc2a62;
+	background-color : #e24925;
 	position : absolute;
 	height : 30px;
 	width : 45px;
@@ -34,5 +34,5 @@ background-position:center;
 
 .heart:after {
 	left : 10.5px;
-	transform : rotate(135deg);
+	transform : rotate(720deg);
 }
